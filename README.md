@@ -5,8 +5,8 @@ Mata Kuliah :
 - Kecerdasan Buatan
 - Web Service
 
-Nama : Humaidi Fikri
-NIM : 2110220
+Nama : Ambarsari
+NIM : 2110038
 
 This is an Indonesian Sentiment Classifier. Originated by James Hennessey and other contributors in phpInsight - Sentiment Analysis in PHP Project (https://github.com/JWHennessey/phpInsight). Some changes are made in the dataset (lib/PHPInsight/dictionaries and lib/PHPInsight/data) that originally use English Langguage converted to Indonesian Langguage. 
 
